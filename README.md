@@ -6,7 +6,7 @@ Utility to deep clone javascript objects
 
 ### Example
 
-'''
+```
 var clone = require('deep-clone');
 
 var object = {
@@ -18,4 +18,4 @@ var object = {
 };
 
 var cloned = clone(object);
-'''
+```
