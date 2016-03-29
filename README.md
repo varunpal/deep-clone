@@ -3,7 +3,7 @@ Utility to deep clone javascript objects
 
 ## Install
 ```node
-npm install deep-clone
+npm install v-deep-clone
 ```
 
 ### Example
