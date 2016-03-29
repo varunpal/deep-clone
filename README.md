@@ -2,7 +2,7 @@
 Utility to deep clone javascript objects
 
 ## Install
-```javascript
+```node
 npm install deep-clone
 ```
 
