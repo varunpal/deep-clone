@@ -1,0 +1,16 @@
+{
+  "name": "deep-clone",
+  "version": "1.0.0",
+  "description": "Utility to deep clone objects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "clone"
+  ],
+  "author": "Varun Pal",
+  "license": "ISC"
+}
