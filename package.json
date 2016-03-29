@@ -1,5 +1,9 @@
 {
-  "name": "deep-clone",
+  "name": "v-deep-clone",
+  "repository" : {
+    "type": "git", 
+    "url": "https://github.com/varunpal/deep-clone"
+  },
   "version": "1.0.0",
   "description": "Utility to deep clone objects.",
   "main": "index.js",
