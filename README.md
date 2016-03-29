@@ -6,7 +6,7 @@ Utility to deep clone javascript objects
 
 ### Example
 
-```
+```javascript
 var clone = require('deep-clone');
 
 var object = {
