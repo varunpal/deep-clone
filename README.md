@@ -9,7 +9,7 @@ npm install v-deep-clone
 ### Example
 
 ```javascript
-var clone = require('deep-clone');
+var clone = require('v-deep-clone');
 
 var object = {
   a: 10,
